@@ -3,7 +3,7 @@
 
 ## Unguided 
 
-### 1. Telusuri program berikut dengan cara mengkompilasi dan mengeksekusi program. Silakan masukan data yang sesuai sebanyak yang diminta program. Perhatikan keluaran yang diperoleh. Coba terangkan apa sebenarnya yang dilakukan program tersebut?
+### 1. Telusuri program berikut dengan cara mengkompilasi dan mengeksekusi ogram. Silakan masukan data yang sesuai sebanyak yang diminta program. Perhatikan keluaran yang diperoleh. Coba terangkan apa sebenarnya yang dilakukan program tersebut?
 #### soal1.go
 
 ```go
